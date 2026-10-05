@@ -1,3 +1,5 @@
+![Triple Cell](banner.jpg)
+
 # Triple Cell
 
 Even-fire inline-3 dyno and sound bench. Bore, stroke, compression, cam, intake, exhaust, and an optional turbo all feed the same motor: the power chart, the cutaway, the 3D view, and the exhaust note.
